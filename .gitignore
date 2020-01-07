@@ -1,4 +1,5 @@
 # Exclude idea projects
-*/.idea
+.idea
+.gradle
 
 
